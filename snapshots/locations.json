@@ -1,0 +1,138 @@
+[
+  {
+    "name": "japan-z5",
+    "hash": "5/36.5/137.5"
+  },
+  {
+    "name": "chubu-z7",
+    "hash": "7/35.8/138.6"
+  },
+  {
+    "name": "kanto-z8",
+    "hash": "8/35.7/139.6"
+  },
+  {
+    "name": "kanto-z9.5",
+    "hash": "9.5/35.55/139.4"
+  },
+  {
+    "name": "fuji-z10",
+    "hash": "10/35.36/138.73"
+  },
+  {
+    "name": "kanto-rivers-z10",
+    "hash": "10/36.0/139.8"
+  },
+  {
+    "name": "tokyo-z11",
+    "hash": "11/35.68/139.75"
+  },
+  {
+    "name": "osaka-z11",
+    "hash": "11/34.69/135.50"
+  },
+  {
+    "name": "saitama-z12",
+    "hash": "12/35.9/139.6"
+  },
+  {
+    "name": "tokyo-east-z12",
+    "hash": "12/35.70/139.83"
+  },
+  {
+    "name": "tokyo-z12.99",
+    "hash": "12.99/35.68/139.75"
+  },
+  {
+    "name": "tokyo-z13",
+    "hash": "13/35.68/139.75"
+  },
+  {
+    "name": "tokyo-z14",
+    "hash": "14/35.68/139.75"
+  },
+  {
+    "name": "palace-z15",
+    "hash": "15/35.6852/139.7528"
+  },
+  {
+    "name": "tokyo-bay-z15",
+    "hash": "15/35.615/139.785"
+  },
+  {
+    "name": "osaka-castle-z15",
+    "hash": "15/34.6873/135.5262"
+  },
+  {
+    "name": "central-park-z15",
+    "hash": "15/40.7736/-73.9712"
+  },
+  {
+    "name": "yanaka-z16",
+    "hash": "16/35.7265/139.7680"
+  },
+  {
+    "name": "midtown-nyc-z16",
+    "hash": "16/40.758/-73.9855"
+  },
+  {
+    "name": "marunouchi-z17",
+    "hash": "17/35.6812/139.7640"
+  },
+  {
+    "name": "paris-z11",
+    "hash": "11/48.857/2.345"
+  },
+  {
+    "name": "paris-louvre-z15",
+    "hash": "15/48.8606/2.3376"
+  },
+  {
+    "name": "london-z12",
+    "hash": "12/51.507/-0.12"
+  },
+  {
+    "name": "amsterdam-z13",
+    "hash": "13/52.372/4.895"
+  },
+  {
+    "name": "phoenix-z12",
+    "hash": "12/33.50/-112.02"
+  },
+  {
+    "name": "phoenix-suburb-z15",
+    "hash": "15/33.585/-111.98"
+  },
+  {
+    "name": "nile-luxor-z9",
+    "hash": "9/25.7/32.6"
+  },
+  {
+    "name": "grand-canyon-z10",
+    "hash": "10/36.10/-112.10"
+  },
+  {
+    "name": "swiss-alps-z10",
+    "hash": "10/46.55/8.05"
+  },
+  {
+    "name": "amazon-manaus-z9",
+    "hash": "9/-3.1/-60.0"
+  },
+  {
+    "name": "norway-fjords-z8",
+    "hash": "8/61.2/6.5"
+  },
+  {
+    "name": "antimeridian-west-z1.25",
+    "hash": "1.25/20/-200"
+  },
+  {
+    "name": "antimeridian-pacific-z3",
+    "hash": "3/0/180"
+  },
+  {
+    "name": "world-copies-z0.6",
+    "hash": "0.6/20/0"
+  }
+]

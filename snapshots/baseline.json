@@ -1,0 +1,559 @@
+{
+  "japan-z5": {
+    "hash": "5/36.5/137.5",
+    "zoom": 5,
+    "lod": "WORLD",
+    "counts": {
+      "DeepWater": 3098,
+      "Water": 365,
+      "ShallowWater": 402,
+      "Grass": 163,
+      "Scrub": 256,
+      "Forest": 583,
+      "Park": 1,
+      "Town": 17,
+      "Hill": 10,
+      "Mountain": 2,
+      "Unknown": 3
+    }
+  },
+  "chubu-z7": {
+    "hash": "7/35.8/138.6",
+    "zoom": 7,
+    "lod": "WORLD",
+    "counts": {
+      "DeepWater": 2038,
+      "Water": 335,
+      "ShallowWater": 398,
+      "Grass": 257,
+      "Scrub": 320,
+      "Forest": 1161,
+      "Town": 4,
+      "Hill": 100,
+      "Mountain": 205,
+      "Unknown": 82
+    }
+  },
+  "kanto-z8": {
+    "hash": "8/35.7/139.6",
+    "zoom": 8,
+    "lod": "REGION",
+    "counts": {
+      "DeepWater": 1350,
+      "Water": 276,
+      "ShallowWater": 286,
+      "Grass": 693,
+      "Scrub": 192,
+      "Forest": 1120,
+      "Road": 489,
+      "Building": 10,
+      "Town": 2,
+      "Hill": 70,
+      "Mountain": 389,
+      "Unknown": 23
+    }
+  },
+  "kanto-z9.5": {
+    "hash": "9.5/35.55/139.4",
+    "zoom": 9.5,
+    "lod": "REGION",
+    "counts": {
+      "DeepWater": 519,
+      "Water": 234,
+      "ShallowWater": 306,
+      "Grass": 1524,
+      "Scrub": 109,
+      "Forest": 1476,
+      "Park": 3,
+      "Road": 388,
+      "Building": 48,
+      "Town": 5,
+      "Hill": 28,
+      "Mountain": 123,
+      "Unknown": 67
+    }
+  },
+  "fuji-z10": {
+    "hash": "10/35.36/138.73",
+    "zoom": 10,
+    "lod": "REGION",
+    "counts": {
+      "DeepWater": 142,
+      "Water": 53,
+      "ShallowWater": 139,
+      "Grass": 374,
+      "Scrub": 114,
+      "Forest": 1985,
+      "Park": 2,
+      "Road": 315,
+      "Building": 6,
+      "Town": 1,
+      "Hill": 304,
+      "Mountain": 1361,
+      "Unknown": 34
+    }
+  },
+  "kanto-rivers-z10": {
+    "hash": "10/36.0/139.8",
+    "zoom": 10,
+    "lod": "REGION",
+    "counts": {
+      "ShallowWater": 339,
+      "Grass": 3762,
+      "Scrub": 104,
+      "Forest": 137,
+      "Park": 20,
+      "Road": 265,
+      "Building": 81,
+      "Town": 4,
+      "Hill": 1,
+      "Mountain": 3,
+      "Unknown": 114
+    }
+  },
+  "tokyo-z11": {
+    "hash": "11/35.68/139.75",
+    "zoom": 11,
+    "lod": "REGION",
+    "counts": {
+      "DeepWater": 433,
+      "Water": 99,
+      "ShallowWater": 506,
+      "Grass": 3428,
+      "Scrub": 7,
+      "Forest": 53,
+      "Park": 17,
+      "Road": 133,
+      "Building": 172,
+      "Town": 2,
+      "Unknown": 50
+    }
+  },
+  "osaka-z11": {
+    "hash": "11/34.69/135.50",
+    "zoom": 11,
+    "lod": "REGION",
+    "counts": {
+      "DeepWater": 430,
+      "Water": 96,
+      "ShallowWater": 413,
+      "Grass": 2916,
+      "Scrub": 73,
+      "Forest": 364,
+      "Park": 27,
+      "Road": 242,
+      "Building": 97,
+      "Town": 4,
+      "Hill": 96,
+      "Unknown": 72
+    }
+  },
+  "saitama-z12": {
+    "hash": "12/35.9/139.6",
+    "zoom": 12,
+    "lod": "TOWN",
+    "counts": {
+      "Water": 4,
+      "ShallowWater": 128,
+      "Grass": 4008,
+      "Forest": 66,
+      "Park": 47,
+      "Road": 448,
+      "Building": 134,
+      "Town": 1,
+      "Unknown": 64
+    }
+  },
+  "tokyo-east-z12": {
+    "hash": "12/35.70/139.83",
+    "zoom": 12,
+    "lod": "TOWN",
+    "counts": {
+      "DeepWater": 77,
+      "Water": 95,
+      "ShallowWater": 533,
+      "Grass": 3369,
+      "Forest": 120,
+      "Park": 43,
+      "Road": 435,
+      "Building": 139,
+      "Town": 1,
+      "Castle": 1,
+      "Unknown": 17
+    }
+  },
+  "tokyo-z12.99": {
+    "hash": "12.99/35.68/139.75",
+    "zoom": 12.99,
+    "lod": "TOWN",
+    "counts": {
+      "DeepWater": 32,
+      "Water": 48,
+      "ShallowWater": 257,
+      "Grass": 3417,
+      "Forest": 326,
+      "Park": 16,
+      "Road": 330,
+      "Building": 332,
+      "Town": 1,
+      "Castle": 1,
+      "Unknown": 1
+    }
+  },
+  "tokyo-z13": {
+    "hash": "13/35.68/139.75",
+    "zoom": 13,
+    "lod": "TOWN",
+    "counts": {
+      "DeepWater": 39,
+      "Water": 51,
+      "ShallowWater": 254,
+      "Grass": 3241,
+      "Forest": 325,
+      "Park": 22,
+      "Road": 628,
+      "Building": 338,
+      "Town": 1,
+      "Castle": 1
+    }
+  },
+  "tokyo-z14": {
+    "hash": "14/35.68/139.75",
+    "zoom": 14,
+    "lod": "TOWN",
+    "counts": {
+      "Water": 12,
+      "ShallowWater": 196,
+      "Grass": 2946,
+      "Forest": 582,
+      "Park": 22,
+      "Road": 781,
+      "Building": 359,
+      "Town": 1,
+      "Castle": 1
+    }
+  },
+  "palace-z15": {
+    "hash": "15/35.6852/139.7528",
+    "zoom": 15,
+    "lod": "LOCAL",
+    "counts": {
+      "Water": 81,
+      "ShallowWater": 431,
+      "Forest": 1549,
+      "Park": 21,
+      "Road": 1262,
+      "Wall": 1076,
+      "Floor": 77,
+      "Unknown": 333
+    }
+  },
+  "tokyo-bay-z15": {
+    "hash": "15/35.615/139.785",
+    "zoom": 15,
+    "lod": "LOCAL",
+    "counts": {
+      "DeepWater": 1370,
+      "Water": 418,
+      "ShallowWater": 260,
+      "Grass": 814,
+      "Forest": 105,
+      "Park": 70,
+      "Road": 637,
+      "Wall": 625,
+      "Floor": 46,
+      "Unknown": 485
+    }
+  },
+  "osaka-castle-z15": {
+    "hash": "15/34.6873/135.5262",
+    "zoom": 15,
+    "lod": "LOCAL",
+    "counts": {
+      "Water": 60,
+      "ShallowWater": 404,
+      "Forest": 974,
+      "Park": 19,
+      "Road": 1402,
+      "Wall": 1183,
+      "Floor": 58,
+      "Unknown": 730
+    }
+  },
+  "central-park-z15": {
+    "hash": "15/40.7736/-73.9712",
+    "zoom": 15,
+    "lod": "LOCAL",
+    "counts": {
+      "DeepWater": 4,
+      "Water": 18,
+      "ShallowWater": 111,
+      "Forest": 379,
+      "Park": 1395,
+      "Road": 1109,
+      "Wall": 1650,
+      "Floor": 183,
+      "Unknown": 51
+    }
+  },
+  "yanaka-z16": {
+    "hash": "16/35.7265/139.7680",
+    "zoom": 16,
+    "lod": "LOCAL",
+    "counts": {
+      "ShallowWater": 4,
+      "Park": 38,
+      "Road": 1479,
+      "Wall": 1773,
+      "Floor": 57,
+      "Unknown": 1410
+    }
+  },
+  "midtown-nyc-z16": {
+    "hash": "16/40.758/-73.9855",
+    "zoom": 16,
+    "lod": "LOCAL",
+    "counts": {
+      "ShallowWater": 6,
+      "Park": 117,
+      "Road": 1107,
+      "Wall": 2317,
+      "Floor": 838,
+      "Unknown": 445
+    }
+  },
+  "marunouchi-z17": {
+    "hash": "17/35.6812/139.7640",
+    "zoom": 17,
+    "lod": "LOCAL",
+    "counts": {
+      "DeepWater": 112,
+      "Water": 87,
+      "ShallowWater": 119,
+      "Forest": 117,
+      "Road": 651,
+      "Wall": 1333,
+      "Floor": 1233,
+      "Unknown": 1178
+    }
+  },
+  "paris-z11": {
+    "hash": "11/48.857/2.345",
+    "zoom": 11,
+    "lod": "REGION",
+    "counts": {
+      "Water": 4,
+      "ShallowWater": 314,
+      "Grass": 3319,
+      "Scrub": 71,
+      "Forest": 313,
+      "Park": 262,
+      "Road": 376,
+      "Building": 212,
+      "Town": 4,
+      "Unknown": 25
+    }
+  },
+  "paris-louvre-z15": {
+    "hash": "15/48.8606/2.3376",
+    "zoom": 15,
+    "lod": "LOCAL",
+    "counts": {
+      "DeepWater": 6,
+      "Water": 168,
+      "ShallowWater": 212,
+      "Grass": 75,
+      "Park": 345,
+      "Road": 796,
+      "Wall": 1858,
+      "Floor": 1115,
+      "Unknown": 325
+    }
+  },
+  "london-z12": {
+    "hash": "12/51.507/-0.12",
+    "zoom": 12,
+    "lod": "TOWN",
+    "counts": {
+      "Water": 13,
+      "ShallowWater": 266,
+      "Grass": 3161,
+      "Forest": 69,
+      "Park": 418,
+      "Road": 609,
+      "Building": 362,
+      "Town": 2
+    }
+  },
+  "amsterdam-z13": {
+    "hash": "13/52.372/4.895",
+    "zoom": 13,
+    "lod": "TOWN",
+    "counts": {
+      "DeepWater": 88,
+      "Water": 193,
+      "ShallowWater": 1187,
+      "Grass": 2673,
+      "Forest": 29,
+      "Park": 291,
+      "Road": 51,
+      "Building": 316,
+      "Town": 1,
+      "Unknown": 1
+    }
+  },
+  "phoenix-z12": {
+    "hash": "12/33.50/-112.02",
+    "zoom": 12,
+    "lod": "TOWN",
+    "counts": {
+      "ShallowWater": 50,
+      "Grass": 3826,
+      "Forest": 1,
+      "Park": 545,
+      "Road": 282,
+      "Building": 178,
+      "Town": 3,
+      "Unknown": 15
+    }
+  },
+  "phoenix-suburb-z15": {
+    "hash": "15/33.585/-111.98",
+    "zoom": 15,
+    "lod": "LOCAL",
+    "counts": {
+      "ShallowWater": 19,
+      "Grass": 427,
+      "Forest": 39,
+      "Park": 125,
+      "Road": 1264,
+      "Wall": 1200,
+      "Floor": 11,
+      "Unknown": 1676
+    }
+  },
+  "nile-luxor-z9": {
+    "hash": "9/25.7/32.6",
+    "zoom": 9,
+    "lod": "REGION",
+    "counts": {
+      "ShallowWater": 145,
+      "Grass": 412,
+      "Town": 3,
+      "Hill": 148,
+      "Unknown": 4192
+    }
+  },
+  "grand-canyon-z10": {
+    "hash": "10/36.10/-112.10",
+    "zoom": 10,
+    "lod": "REGION",
+    "counts": {
+      "ShallowWater": 83,
+      "Grass": 503,
+      "Scrub": 8,
+      "Forest": 1005,
+      "Park": 176,
+      "Hill": 1022,
+      "Mountain": 2033
+    }
+  },
+  "swiss-alps-z10": {
+    "hash": "10/46.55/8.05",
+    "zoom": 10,
+    "lod": "REGION",
+    "counts": {
+      "Water": 37,
+      "ShallowWater": 133,
+      "Grass": 28,
+      "Scrub": 25,
+      "Forest": 467,
+      "Park": 11,
+      "Road": 30,
+      "Hill": 471,
+      "Mountain": 3697,
+      "Unknown": 1
+    }
+  },
+  "amazon-manaus-z9": {
+    "hash": "9/-3.1/-60.0",
+    "zoom": 9,
+    "lod": "REGION",
+    "counts": {
+      "DeepWater": 53,
+      "Water": 187,
+      "ShallowWater": 754,
+      "Grass": 97,
+      "Scrub": 245,
+      "Forest": 3558,
+      "Building": 2,
+      "Town": 1,
+      "Unknown": 3
+    }
+  },
+  "norway-fjords-z8": {
+    "hash": "8/61.2/6.5",
+    "zoom": 8,
+    "lod": "REGION",
+    "counts": {
+      "Water": 33,
+      "ShallowWater": 743,
+      "Grass": 71,
+      "Scrub": 46,
+      "Forest": 573,
+      "Park": 133,
+      "Road": 1,
+      "Hill": 1684,
+      "Mountain": 1471,
+      "Unknown": 145
+    }
+  },
+  "antimeridian-west-z1.25": {
+    "hash": "1.25/20/-200",
+    "zoom": 1.25,
+    "lod": "WORLD",
+    "counts": {
+      "DeepWater": 1726,
+      "Water": 592,
+      "ShallowWater": 786,
+      "Grass": 526,
+      "Scrub": 140,
+      "Forest": 147,
+      "Town": 47,
+      "Hill": 3,
+      "Unknown": 933
+    }
+  },
+  "antimeridian-pacific-z3": {
+    "hash": "3/0/180",
+    "zoom": 3,
+    "lod": "WORLD",
+    "counts": {
+      "DeepWater": 4155,
+      "Water": 204,
+      "ShallowWater": 217,
+      "Grass": 143,
+      "Scrub": 29,
+      "Forest": 39,
+      "Town": 15,
+      "Hill": 1,
+      "Unknown": 97
+    }
+  },
+  "world-copies-z0.6": {
+    "hash": "0.6/20/0",
+    "zoom": 1.1032877879540313,
+    "lod": "WORLD",
+    "counts": {
+      "DeepWater": 1483,
+      "Water": 595,
+      "ShallowWater": 777,
+      "Grass": 443,
+      "Scrub": 116,
+      "Forest": 118,
+      "Town": 47,
+      "Hill": 2,
+      "Unknown": 1319
+    }
+  }
+}

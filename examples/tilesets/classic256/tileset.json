@@ -1,0 +1,564 @@
+{
+  "id": "classic256",
+  "name": "Classic 256-tile sheet",
+  "image": "sheet.png",
+  "layout": {
+    "tileWidth": 28,
+    "tileHeight": 32,
+    "offsetX": 14,
+    "offsetY": 0,
+    "columns": 16
+  },
+  "tiles": {
+    "DeepWater": 0,
+    "Water": 1,
+    "ShallowWater": 2,
+    "NarrowWater": 1,
+    "Grass": 4,
+    "Scrub": 5,
+    "Forest": 6,
+    "Park": 5,
+    "Road": "blank",
+    "Building": 12,
+    "Urban": 12,
+    "Town": 10,
+    "Castle": 11,
+    "Wall": 127,
+    "Floor": 62,
+    "Hill": 7,
+    "Mountain": 8,
+    "Unknown": 4
+  },
+  "letters": 96,
+  "flags": {
+    "Town": [
+      9,
+      5,
+      6,
+      6
+    ],
+    "Castle": [
+      16,
+      1,
+      7,
+      5
+    ]
+  },
+  "creatures": {
+    "defs": {
+      "ship": {
+        "frames": [
+          128
+        ],
+        "moves": "sail"
+      },
+      "water_sprite": {
+        "frames": [
+          132,
+          133
+        ],
+        "moves": "swim"
+      },
+      "kraken": {
+        "frames": [
+          134,
+          135
+        ],
+        "moves": "swim"
+      },
+      "sea_serpent": {
+        "frames": [
+          136,
+          137
+        ],
+        "moves": "swim",
+        "fire": true
+      },
+      "seahorse": {
+        "frames": [
+          138,
+          139
+        ],
+        "moves": "swim"
+      },
+      "whirlpool": {
+        "frames": [
+          140,
+          141
+        ],
+        "moves": "swim"
+      },
+      "twister": {
+        "frames": [
+          142,
+          143
+        ],
+        "moves": "fly"
+      },
+      "orc": {
+        "frames": [
+          192,
+          193,
+          194,
+          195
+        ],
+        "moves": "walk"
+      },
+      "skeleton": {
+        "frames": [
+          196,
+          197,
+          198,
+          199
+        ],
+        "moves": "walk"
+      },
+      "bandit": {
+        "frames": [
+          200,
+          201,
+          202,
+          203
+        ],
+        "moves": "walk"
+      },
+      "python": {
+        "frames": [
+          204,
+          205,
+          206,
+          207
+        ],
+        "moves": "walk"
+      },
+      "two_headed_giant": {
+        "frames": [
+          208,
+          209,
+          210,
+          211
+        ],
+        "moves": "walk"
+      },
+      "headless": {
+        "frames": [
+          212,
+          213,
+          214,
+          215
+        ],
+        "moves": "walk"
+      },
+      "cyclops": {
+        "frames": [
+          216,
+          217,
+          218,
+          219
+        ],
+        "moves": "walk"
+      },
+      "wisp": {
+        "frames": [
+          220,
+          221,
+          222,
+          223
+        ],
+        "moves": "walk"
+      },
+      "sorcerer": {
+        "frames": [
+          224,
+          225,
+          226,
+          227
+        ],
+        "moves": "walk"
+      },
+      "lich": {
+        "frames": [
+          228,
+          229,
+          230,
+          231
+        ],
+        "moves": "walk"
+      },
+      "fire_lizard": {
+        "frames": [
+          232,
+          233,
+          234,
+          235
+        ],
+        "moves": "walk",
+        "fire": true
+      },
+      "void_beast": {
+        "frames": [
+          236,
+          237,
+          238,
+          239
+        ],
+        "moves": "walk"
+      },
+      "demon": {
+        "frames": [
+          240,
+          241,
+          242,
+          243
+        ],
+        "moves": "fly"
+      },
+      "hydra": {
+        "frames": [
+          244,
+          245,
+          246,
+          247
+        ],
+        "moves": "walk",
+        "fire": true
+      },
+      "dragon": {
+        "frames": [
+          248,
+          249,
+          250,
+          251
+        ],
+        "moves": "fly",
+        "fire": true
+      },
+      "dark_lord": {
+        "frames": [
+          252,
+          253,
+          254,
+          255
+        ],
+        "moves": "fly"
+      },
+      "mage": {
+        "frames": [
+          32,
+          33
+        ],
+        "moves": "town"
+      },
+      "bard": {
+        "frames": [
+          34,
+          35
+        ],
+        "moves": "town"
+      },
+      "fighter": {
+        "frames": [
+          36,
+          37
+        ],
+        "moves": "town"
+      },
+      "druid": {
+        "frames": [
+          38,
+          39
+        ],
+        "moves": "town"
+      },
+      "tinker": {
+        "frames": [
+          40,
+          41
+        ],
+        "moves": "town"
+      },
+      "paladin": {
+        "frames": [
+          42,
+          43
+        ],
+        "moves": "town"
+      },
+      "ranger": {
+        "frames": [
+          44,
+          45
+        ],
+        "moves": "town"
+      },
+      "shepherd": {
+        "frames": [
+          46,
+          47
+        ],
+        "moves": "town"
+      },
+      "guard": {
+        "frames": [
+          80,
+          81
+        ],
+        "moves": "town"
+      },
+      "villager": {
+        "frames": [
+          82,
+          83
+        ],
+        "moves": "town"
+      },
+      "minstrel": {
+        "frames": [
+          84,
+          85
+        ],
+        "moves": "town"
+      },
+      "jester": {
+        "frames": [
+          86,
+          87
+        ],
+        "moves": "town"
+      },
+      "beggar": {
+        "frames": [
+          88,
+          89
+        ],
+        "moves": "town"
+      },
+      "child": {
+        "frames": [
+          90,
+          91
+        ],
+        "moves": "town"
+      },
+      "bull": {
+        "frames": [
+          92,
+          93
+        ],
+        "moves": "town"
+      },
+      "king": {
+        "frames": [
+          94,
+          95
+        ],
+        "moves": "town"
+      },
+      "horse": {
+        "frames": [
+          20
+        ],
+        "moves": "town"
+      }
+    },
+    "spawn": {
+      "deep": [
+        [
+          "ship",
+          1
+        ],
+        [
+          "water_sprite",
+          1
+        ],
+        [
+          "kraken",
+          1
+        ],
+        [
+          "sea_serpent",
+          1
+        ],
+        [
+          "seahorse",
+          1
+        ],
+        [
+          "whirlpool",
+          1
+        ],
+        [
+          "twister",
+          1
+        ]
+      ],
+      "shallow": [
+        [
+          "water_sprite",
+          1
+        ],
+        [
+          "kraken",
+          1
+        ],
+        [
+          "sea_serpent",
+          1
+        ],
+        [
+          "seahorse",
+          1
+        ],
+        [
+          "whirlpool",
+          1
+        ]
+      ],
+      "land": [
+        [
+          "orc",
+          81
+        ],
+        [
+          "skeleton",
+          27
+        ],
+        [
+          "bandit",
+          27
+        ],
+        [
+          "python",
+          9
+        ],
+        [
+          "two_headed_giant",
+          27
+        ],
+        [
+          "headless",
+          9
+        ],
+        [
+          "cyclops",
+          9
+        ],
+        [
+          "wisp",
+          3
+        ],
+        [
+          "sorcerer",
+          27
+        ],
+        [
+          "lich",
+          9
+        ],
+        [
+          "fire_lizard",
+          9
+        ],
+        [
+          "void_beast",
+          3
+        ],
+        [
+          "demon",
+          9
+        ],
+        [
+          "hydra",
+          3
+        ],
+        [
+          "dragon",
+          3
+        ],
+        [
+          "dark_lord",
+          1
+        ]
+      ],
+      "town": [
+        [
+          "mage",
+          1
+        ],
+        [
+          "bard",
+          1
+        ],
+        [
+          "fighter",
+          1
+        ],
+        [
+          "druid",
+          1
+        ],
+        [
+          "tinker",
+          1
+        ],
+        [
+          "paladin",
+          1
+        ],
+        [
+          "ranger",
+          1
+        ],
+        [
+          "shepherd",
+          1
+        ],
+        [
+          "guard",
+          3
+        ],
+        [
+          "villager",
+          6
+        ],
+        [
+          "minstrel",
+          1
+        ],
+        [
+          "jester",
+          1
+        ],
+        [
+          "beggar",
+          2
+        ],
+        [
+          "child",
+          4
+        ],
+        [
+          "bull",
+          1
+        ],
+        [
+          "king",
+          1
+        ],
+        [
+          "horse",
+          1
+        ]
+      ]
+    },
+    "fireTile": 79
+  },
+  "gate": {
+    "frames": [
+      64,
+      65,
+      66,
+      67
+    ]
+  }
+}
