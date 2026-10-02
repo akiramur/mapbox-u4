@@ -8,6 +8,9 @@ overworld map made of 16×16 pixel tiles, using fixed deterministic rules.
 This is not a game. There is no player, NPCs, combat or pathfinding. The POC only
 tests the conversion and rendering architecture.
 
+This is a personal project. It is not an official Mapbox product and is not affiliated with
+or endorsed by Mapbox.
+
 ## Setup
 
 ```sh
